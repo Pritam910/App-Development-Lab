@@ -1,5 +1,5 @@
 void main() {
-  String str = "Ayan Pal";
+  String str = "Pritam Das";
 
   String upper = str.toUpperCase();
   String lower = str.toLowerCase();

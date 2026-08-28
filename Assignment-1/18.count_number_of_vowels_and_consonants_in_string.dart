@@ -1,5 +1,5 @@
 void main() {
-  String str = "Ayan Pal";
+  String str = "Pritam Das";
 
   int vowel = 0;
   int consonant = 0;

@@ -1,5 +1,5 @@
 void main() {
-  String str = "Ayan Pal";
+  String str = "Pritam Das";
   int n = str.length;
   String rev = "";
   for (int i = n - 1; i >= 0; i--) {
